@@ -10,10 +10,10 @@
     ],
     "conflict": {
 		"gregoriohc/laravel-trello": "*"
-	}
+	},
     "replace": {
 		"gregoriohc/laravel-trello": "*"
-	}
+	},
     "require": {
         "php": "^7.2.5|^8.0",
         "ext-json": "*",
