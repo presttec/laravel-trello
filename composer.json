@@ -20,7 +20,7 @@
         "illuminate/support": "~6.0|~7.0|~8.0",
         "illuminate/session": "~6.0|~7.0|~8.0",
         "illuminate/events": "~6.0|~7.0|~8.0",
-        "psr/http-message": "^1.0",
+        "psr/http-message": "^2.0",
         "psr/http-client": "^1.0",
         "psr/http-factory": "^1.0"
     },
